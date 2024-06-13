@@ -1,5 +1,7 @@
 require 'colorize'
 
+puts "this is ruby learning"
+
 class Colorizer
 	def self.print_colored_text
 		puts "this is blue text".colorize(:blue)
