@@ -1,0 +1,9 @@
+{
+   "graalvm.home": "/home/gilarb/.sdkman/candidates/java/17.0.11-graal",
+   "graalvm.installations": [
+      "/home/gilarb/.sdkman/candidates/java/17.0.11-graal"
+   ],
+   "terminal.integrated.env.linux": {
+      "GRAALVM_HOME": "/home/gilarb/.sdkman/candidates/java/17.0.11-graal"
+   }
+}
