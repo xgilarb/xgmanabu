@@ -10,6 +10,7 @@ puts "this is ruby learning"
 puts "this is ruby learning"
 puts "this is ruby learning"
 puts "this is ruby learning"
+puts "this is ruby learning"
 
 class Colorizer
 	def self.print_colored_text

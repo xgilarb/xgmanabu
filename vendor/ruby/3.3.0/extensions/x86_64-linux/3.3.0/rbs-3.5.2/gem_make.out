@@ -1,0 +1,27 @@
+current directory: /home/gilarb/fswdevs/ongit/xgmanabu/vendor/ruby/3.3.0/gems/rbs-3.5.2/ext/rbs_extension
+/home/gilarb/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/gilarb/fswdevs/ongit/xgmanabu/vendor/ruby/3.3.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240717-12000-s0sagt sitelibdir\=./.gem.20240717-12000-s0sagt clean
+
+current directory: /home/gilarb/fswdevs/ongit/xgmanabu/vendor/ruby/3.3.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240717-12000-s0sagt sitelibdir\=./.gem.20240717-12000-s0sagt
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.so
+
+current directory: /home/gilarb/fswdevs/ongit/xgmanabu/vendor/ruby/3.3.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240717-12000-s0sagt sitelibdir\=./.gem.20240717-12000-s0sagt install
+/usr/bin/install -c -m 0755 rbs_extension.so ./.gem.20240717-12000-s0sagt
+
+current directory: /home/gilarb/fswdevs/ongit/xgmanabu/vendor/ruby/3.3.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240717-12000-s0sagt sitelibdir\=./.gem.20240717-12000-s0sagt clean
