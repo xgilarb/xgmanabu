@@ -1,1 +1,6 @@
-IO.puts("hello world!")
+hello_world = fn ->
+  "hello world!"
+  |> IO.puts
+end
+
+hello_world.()
