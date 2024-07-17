@@ -14,5 +14,4 @@ def loop_rekursi(angka)
     loop_rekursi(angka + 1)
   end
 end
-
 loop_rekursi(0)
