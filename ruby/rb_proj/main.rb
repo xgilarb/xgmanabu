@@ -15,4 +15,5 @@ def loop_recursion(angka)
     loop_recursion(angka + 1)
   end
 end
+
 loop_recursion(0)
