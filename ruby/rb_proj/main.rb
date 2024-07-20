@@ -7,12 +7,12 @@ end
 
 # Rekursi
 puts "\nPerulangan Rekursi"
-def loop_rekursi(angka)
+def loop_recursion(angka)
   if angka == 5
     puts angka
   else
     puts angka
-    loop_rekursi(angka + 1)
+    loop_recursion(angka + 1)
   end
 end
-loop_rekursi(0)
+loop_recursion(0)
