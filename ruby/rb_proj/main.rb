@@ -1,6 +1,7 @@
+array = [0, 1, 2, 3, 4, 5]
 # Loop
 puts "Perulangan Loop"
-(0..5).each do |i|
+array.each do |i|
   puts i
 end
 
