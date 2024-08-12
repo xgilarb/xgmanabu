@@ -1,8 +1,7 @@
-name = input("What is your name?\n")
-print(f"Hello, {name}!")
-status = input("how are you doing today?\n")
+def main():
+    # print("Input your name: ")
+    name = input("what is your name? ")
+    print(f"Hello {name}!")
 
-if status == "good" or status == "fine":
-    print(f"glad to hear you {status} {name}")
-elif status == "sick" or status == "bad":
-    print(f"get well soon {name}")
+if __name__ == "__main__":
+    main()
